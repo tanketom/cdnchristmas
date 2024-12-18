@@ -12,7 +12,7 @@ May your home be filled with ${getRandomWord(words.adjectives)} laughter, your h
 
 Thank you for being a part of our community. We look forward to sharing many more ${getRandomWord(words.adjectives)} moments with you in the coming year.
 
-Merry Christmas and Happy New Year!`;
+Merry Christmas and Happy New Year from the CDN!`;
 
     document.getElementById('card').innerText = greeting;
 }
